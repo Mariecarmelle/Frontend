@@ -65,7 +65,10 @@ span {
         justify-content: center;
         align-items: center;
     }
-    
+    .title-text:hover {
+        color:  hsl(47, 88%, 63%);
+        cursor: pointer;
+    }
     .title-text {
         font-size: 15px;
     }
