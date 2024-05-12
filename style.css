@@ -65,6 +65,12 @@ span {
         justify-content: center;
         align-items: center;
     }
+
+    .image-illustration {
+        width: 100%;
+        border-radius: 1rem;
+        margin-bottom: 10px;
+    }
     .title-text:hover {
         color:  hsl(47, 88%, 63%);
         cursor: pointer;
